@@ -1,4 +1,4 @@
-# myapp
+# UniPal
 
 A new Flutter project.
 
