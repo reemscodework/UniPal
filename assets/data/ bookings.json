@@ -1,0 +1,9 @@
+[
+    {
+      "id": "booking_001",
+      "user_id": "user_001",
+      "item_id": "item_001",
+      "date": "2026-02-25",
+      "status": "confirmed"
+    }
+  ]

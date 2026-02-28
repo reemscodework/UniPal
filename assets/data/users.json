@@ -1,0 +1,10 @@
+[
+    {
+      "id": "user_001",
+      "name": "John Doe",
+      "email": "john@email.com",
+      "role": "user",
+      "location": "London",
+      "created_at": "2026-02-21T10:00:00"
+    }
+  ]
